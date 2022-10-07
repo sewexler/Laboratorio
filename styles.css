@@ -1,0 +1,14 @@
+body{
+background-color: #B2C8DF;
+
+}
+
+.navbar{
+position: fixed;
+
+}
+
+.navbar-nav{
+font-size: larger;
+padding-right: 7rem;
+}
